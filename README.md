@@ -2,10 +2,10 @@
 1. [Project Description](#project-description)
 2. [Usage](#usage)
 3. [Technical Details](#technical-details)
-4. [Contributors]_(#contributors)
+4. [Contributors](#contributors)
 5. [Contact](#contact)
 
-###Project Description
+### Project Descriptions
 I'll be using the "Google Play Store Apps" dataset. These two datasets are made available as .csv files and will be transformed throughout the code before being loaded into a SQLite database.
 
 ### Usage
@@ -30,7 +30,7 @@ This project uses several technologies and libraries:
 3. **Load**: Insert transformed data into an SQLite database for further analysis.
 
 ### Contributors
-If you'd like to contribute to this project, you can fix the repository and submit a pull request.
+If you want to contribute to this project, you can fix the repository and submit a pull request.
 
 ### Contact
 For questions, feedback, or suggestions, feel free to reach out:
