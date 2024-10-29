@@ -14,7 +14,6 @@ This ETL pipeline processes app data from the Google Play Store dataset and load
 1. **Data Extraction**: The script reads data from the `data/google_play_store.csv` file.
 2. **Data Transformation**: It cleans, filters, and processes the raw data for analysis.
 3. **Data Loading**: The processed data is saved to a database (`database/google_play_store.db`).
-```bash
 
 ### Technical Details
 This project uses several technologies and libraries:
