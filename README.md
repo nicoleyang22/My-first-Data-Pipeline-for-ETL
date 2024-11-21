@@ -1,11 +1,11 @@
+![google_play_logo](google_play_logo.png "google_play_logo")
+
 ### Table of Contents
 1. [Project Description](#project-description)
 2. [Usage](#usage)
 3. [Technical Details](#technical-details)
 4. [Contributors](#contributors)
 5. [Contact](#contact)
-
-![google_play_logo](google_play_logo.png "google_play_logo")
 
 ### Project Descriptions
 I'll be using the "Google Play Store Apps" dataset. These two datasets are made available as .csv files and will be transformed throughout the code before being loaded into a SQLite database.
