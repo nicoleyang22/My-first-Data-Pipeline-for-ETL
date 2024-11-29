@@ -34,9 +34,6 @@ This project uses several technologies and libraries:
 2. **Transform**: Clean data by handling missing values, normalizing columns, and applying data types.
 3. **Load**: Insert transformed data into an SQLite database for further analysis.
 
-### Contributors
-If you want to contribute to this project, you can fix the repository and submit a pull request.
-
 ### Contact
 For questions, feedback, or suggestions, feel free to reach out:
 - **Email**: chuncy0331@gmail.com
