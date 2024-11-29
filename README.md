@@ -1,4 +1,4 @@
-# Google Play Store Pipeline
+# Google Play Store - ETL Pipeline
 
 ### Table of Contents
 1. [Project Description](#project-description)
