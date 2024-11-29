@@ -1,9 +1,3 @@
-![google_play_logo](google_play_logo.png "google_play_logo")
-
-git add google_play_logo.png
-git commit -m "Add google_play_logo.png"
-git push
-
 ### Table of Contents
 1. [Project Description](#project-description)
 2. [Usage](#usage)
